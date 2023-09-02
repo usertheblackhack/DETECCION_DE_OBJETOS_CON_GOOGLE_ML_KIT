@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="#BAE1DD">
 
     <TextView
         android:textColor="@color/black"
@@ -20,6 +21,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
+        android:textStyle="bold"
         android:id="@+id/btGallery"
         android:layout_margin="5dp"
         android:layout_width="0dp"
@@ -30,6 +32,7 @@
         app:layout_constraintRight_toLeftOf="@+id/btCamera" />
 
     <Button
+        android:textStyle="bold"
         android:id="@+id/btCamera"
         android:layout_margin="5dp"
         android:layout_width="0dp"
@@ -49,13 +52,14 @@
         app:layout_constraintBottom_toTopOf="@+id/txtresults" />
 
     <TextView
+        android:textColor="@color/black"
         android:id="@+id/txtresults"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:scrollbars="vertical"
         android:inputType="textMultiLine"
-        android:text="Resultados:"
+        android:text=""
         app:layout_constraintBottom_toBottomOf="parent"
          />
 
