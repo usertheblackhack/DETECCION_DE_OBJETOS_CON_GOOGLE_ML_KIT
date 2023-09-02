@@ -5,7 +5,8 @@
 ***OCHOA GILCES GEOVANNY ALEXANDER***,
 ***PIÑA PAREDES MIGUEL ANGEL***
 ***Hecho en el lenguaje _Java_ ***
-![WhatsApp Image 2023-09-02 at 3 37 23 PM](https://github.com/usertheblackhack/DETECCION_DE_OBJETOS_CON_GOOGLE_ML_KIT/assets/141383984/a8f8082f-f294-4225-82f5-869214aca475)
-![WhatsApp Image 2023-09-02 at 3 37 44 PM](https://github.com/usertheblackhack/DETECCION_DE_OBJETOS_CON_GOOGLE_ML_KIT/assets/141383984/78e9a1f7-8df2-4d8a-b302-ba070f35e5b9)
-![WhatsApp Image 2023-09-02 at 3 37 45 PM (1)](https://github.com/usertheblackhack/DETECCION_DE_OBJETOS_CON_GOOGLE_ML_KIT/assets/141383984/568351ea-9d59-4582-a855-26d82b30330a)
-![WhatsApp Image 2023-09-02 at 3 37 45 PM](https://github.com/usertheblackhack/DETECCION_DE_OBJETOS_CON_GOOGLE_ML_KIT/assets/141383984/4f9a7b2f-be4c-4902-a162-42f0bb963673)
+
+![WhatsApp Image 2023-09-02 at 3 47 56 PM (2)](https://github.com/usertheblackhack/DETECCION_DE_OBJETOS_CON_GOOGLE_ML_KIT/assets/141383984/bdbef1cd-51ed-469e-b76d-308dfacdb54a)
+![WhatsApp Image 2023-09-02 at 3 47 56 PM (3)](https://github.com/usertheblackhack/DETECCION_DE_OBJETOS_CON_GOOGLE_ML_KIT/assets/141383984/6ea7838d-96d5-471f-a0da-08f4be061c6b)
+![WhatsApp Image 2023-09-02 at 3 47 56 PM](https://github.com/usertheblackhack/DETECCION_DE_OBJETOS_CON_GOOGLE_ML_KIT/assets/141383984/0a372fc0-5a0f-453b-b90b-d006abffde00)
+![WhatsApp Image 2023-09-02 at 3 47 56 PM (1)](https://github.com/usertheblackhack/DETECCION_DE_OBJETOS_CON_GOOGLE_ML_KIT/assets/141383984/f7df5de2-3bc2-48d2-af13-4d920f87e166)
